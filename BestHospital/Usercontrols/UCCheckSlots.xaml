@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="BestHospital.Usercontrols.UCCheckSlots"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BestHospital.Usercontrols"
+             xmlns:uc="clr-namespace:BestHospital.Usercontrols"
+             mc:Ignorable="d" 
+             >
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="10" Content="Select Appointment"></Label>
+            <uc:UCAppointmentList Width="120" Margin="10"></uc:UCAppointmentList>
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="10" Content="Select Doctor"></Label>
+            <uc:UCDoctorsList Width="120" Margin="10"></uc:UCDoctorsList>
+           
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="10" Content="Date"></Label>
+            <uc:UCDate Margin="10" Width="120"></uc:UCDate>
+        </StackPanel>
+        <StackPanel>
+            <Button x:Name="btnViewSlots" Margin="10" Content="View Slots" Width="120" HorizontalAlignment="Left" Click="btnViewSlots_Click" ></Button>
+        </StackPanel>
+    </StackPanel>
+</UserControl>

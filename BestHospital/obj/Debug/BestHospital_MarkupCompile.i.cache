@@ -1,0 +1,20 @@
+﻿BestHospital
+
+
+winexe
+C#
+.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\
+BestHospital
+none
+false
+DEBUG;TRACE
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\App.xaml
+12-582691223
+
+341813644479
+16-325609481
+MainWindow.xaml;ResourceDictionary\ButtonDictionary.xaml;Usercontrols\UCAppointmentList.xaml;Usercontrols\UCCheckSlots.xaml;Usercontrols\UCDate.xaml;Usercontrols\UCDoctorsList.xaml;Usercontrols\UCSubmitChange.xaml;Usercontrols\UCTime.xaml;Views\BookAppointment.xaml;Views\DoctorAppointments.xaml;Views\Registered Doctors.xaml;Views\RegisterteredPatients.xaml;
+
+True
+

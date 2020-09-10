@@ -1,0 +1,37 @@
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\bin\Debug\BestHospital.exe.config
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\bin\Debug\BestHospital.exe
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\bin\Debug\BestHospital.pdb
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\ResourceDictionary\ButtonDictionary.baml
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\MainWindow.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Usercontrols\UCCheckSlots.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Usercontrols\UCDate.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Usercontrols\UCDoctorsList.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Usercontrols\UCSubmitChange.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Usercontrols\UCTime.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Views\BookAppointment.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Views\DoctorAppointments.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Views\Registered Doctors.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Views\RegisterteredPatients.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\App.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\BestHospital_MarkupCompile.cache
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\BestHospital_MarkupCompile.lref
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\MainWindow.baml
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Usercontrols\UCCheckSlots.baml
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Usercontrols\UCDate.baml
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Usercontrols\UCDoctorsList.baml
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Usercontrols\UCSubmitChange.baml
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Usercontrols\UCTime.baml
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Views\BookAppointment.baml
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Views\DoctorAppointments.baml
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Views\Registered Doctors.baml
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Views\RegisterteredPatients.baml
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\BestHospital.g.resources
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\BestHospital.Properties.Resources.resources
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\BestHospital.csproj.GenerateResource.cache
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\BestHospital.csproj.CoreCompileInputs.cache
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\BestHospital.exe
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\BestHospital.pdb
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Usercontrols\UCAppointmentList.g.cs
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\Usercontrols\UCAppointmentList.baml
+C:\Users\Raghu\source\repos\BestHospital\BestHospital\obj\Debug\App.baml
